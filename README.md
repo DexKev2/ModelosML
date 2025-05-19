@@ -1,5 +1,9 @@
 # ModelosML - Mushroom Classification
 
+### Desarrollado por: 
+#### Kevin Saldarriaga Garcia
+#### Julian Lopera
+
 Este repositorio contiene un modelo de clasificación para determinar si un hongo es comestible o venenoso basado en sus características físicas.
 
 ## Estructura del Repositorio
